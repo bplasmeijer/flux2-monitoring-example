@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   name: monitoring-test
   labels:
-    app.kubernetes.io/component: monitoring
+    app.kubernetes.io/component: monitoring-test

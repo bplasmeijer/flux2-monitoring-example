@@ -13,4 +13,4 @@ configMapGenerator:
       labels:
         grafana_dashboard: "1"
         app.kubernetes.io/part-of: flux
-        app.kubernetes.io/component: monitoring
+        app.kubernetes.io/component: monitoring-test

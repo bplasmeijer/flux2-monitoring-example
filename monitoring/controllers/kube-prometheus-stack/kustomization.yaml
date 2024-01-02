@@ -12,6 +12,6 @@ configMapGenerator:
     options:
       labels:
         app.kubernetes.io/part-of: flux
-        app.kubernetes.io/component: monitoring
+        app.kubernetes.io/component: monitoring-test
 configurations:
   - kustomizeconfig.yaml
